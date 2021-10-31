@@ -36,7 +36,7 @@ input[type=email]{
     border: 1px solid #b8b6b6;
 }
 input[type=submit]{
-    color: white;
+    color: #fff;
     border-radius: 5px;
     background: #008060;
     padding: 0.5rem;
@@ -51,9 +51,6 @@ input[type=submit]:hover{
 #font-size{
     font-size: 12px;
 }
-nav{
-    background: #004c3f;
-}
 
 .picture--cover {
     display: block;
@@ -62,8 +59,3 @@ nav{
 }
 
 
-/* @media screen(min-width: 779px) {
-    .container-1{
-        width: 60px;
-    }
-} */
