@@ -1,0 +1,69 @@
+body{
+    background: #fbf7ed;
+}
+
+.container-1{
+    width: 75%;
+    padding: 2rem;
+    margin: 3rem;  
+    margin-top: 5%;
+    word-wrap: normal; 
+}
+
+.background-1{
+    background: #fbf7ed;
+}
+
+.text-color{
+    color: #004c3f;
+}
+.background-2{
+    background: #004c3f;
+}
+.sub-container{
+    width: 60%;
+}
+
+.container-2{
+    width: 80%;
+}
+
+input[type=email]{
+    width: 70%;
+    margin-top: 0px;
+    padding: 0.5rem;
+    border: none;
+    border: 1px solid #b8b6b6;
+}
+input[type=submit]{
+    color: white;
+    border-radius: 5px;
+    background: #008060;
+    padding: 0.5rem;
+    border: none;
+    border: 1px solid #b8b6b6;
+}
+input[type=submit]:hover{
+    background: #004c3f;
+}
+
+
+#font-size{
+    font-size: 12px;
+}
+nav{
+    background: #004c3f;
+}
+
+.picture--cover {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* @media screen(min-width: 779px) {
+    .container-1{
+        width: 60px;
+    }
+} */
