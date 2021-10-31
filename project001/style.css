@@ -58,4 +58,29 @@ input[type=submit]:hover{
     height: 100%;
 }
 
+@media screen and (max-width: 650px){
+    .container-1{
+        width: 90%;
+        margin: 1.5rem;
+    }
+
+    .container-2{
+        width: 100%;
+    }
+    .sub-container{
+        width: 100%;
+    }
+    .media{
+        font-size: 32px;
+    }
+    input[type=email]{
+       
+        width: 60%;
+        
+    
+    }
+    
+}
+
+
 
